@@ -76,13 +76,3 @@ input{
         text-align: center;
     }
 }
-
-@media screen and (min-width: 801px) {
-    body{
-        background-color: black;
-    }
-    div{
-        width: 250px;
-        text-align: center;
-    }
-}
