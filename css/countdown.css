@@ -78,8 +78,8 @@ input{
 }
 
 @media (min-width: 801px) {
-    body{
-        background-color: black;
+    .main{
+        background-image: url("../anonymous.jpg");
     }
     div{
         width: 250px;
